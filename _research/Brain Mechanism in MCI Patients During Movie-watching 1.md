@@ -9,12 +9,15 @@ location: "ChengDu, China"
 ---
 
 Movie-Watching Elicits Memory Recall EEG synchrony connectivity Pattern in People with MCI.
+------
 
 Introduction
 ======
 Aging or aging-related diseases are considered to cause changes in neural synchronization. Natural stimuli such as movie-watching may provide the environment in which recall is evoked. How is neural synchrony affected by MCI disease in this state? <br>
 Here we measured the Electroencephalogram (EEG) of 39 normal control (NC) and 33 mild cognitive impairment (MCI) individuals during the viewing of two movies (one of which elicits recall and the other a control) to quantify neural synchrony connectivity and to observe the relationship between changes in synchrony and neuropsychological measures. <br>
 In order to select the appropriate movie stimuli for this study, two movies, low-recall and high-recall, were conducted. This was defined based on the subjective screening by the experimental designer, the pre-experiment, and the scale follow-up in the experiment (which mainly depended on the results of the pre-experiment.) The low-recall movie was chosen as a nature documentary; the high-recall movie was a narrative clip whose segment was about going down to the countryside to do farm work. This was due to the fact that the subjects were older Chinese people aged 45-80 years old, and the expectation was that it would elicit memories from the subjects.
+![Editing a markdown file for a talk](/images/peradigms.jpg)
+fig.1 Paradigms and movie examples
 
 Results
 ======
@@ -40,3 +43,18 @@ Methods
 Conclusion
 ======
 Our study revealed that MCI leads to altered neural synchrony connectivity in the recall state. There are regularities in these network patterns that may be relevant to cognitive and recall functions.
+
+
+
+Getting started
+======
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+
+**Markdown generator**
+
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
