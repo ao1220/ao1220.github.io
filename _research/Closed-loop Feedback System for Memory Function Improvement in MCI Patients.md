@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "ChengDu, China"
 ---
 
-Research on abnormal brain network mechanism and closed-loop feedback regulation technique in MCI patients during naturalistic viewing
+Based on research of abnormal brain network mechanism and closed-loop feedback regulation technique in MCI patients during naturalistic viewing
 ------
 
 Mild Cognitive Impairment (MCI) is a stage between normal aging and Alzheimer's disease. Early diagnosis and intervention of MCI is the key to delaying or preventing Alzheimer's disease. However, there is a lack of effective medicine treatment for MCI, and the development of non-drug intervention technology has received great attention in recent years. Our project intends to focus on the key issues of non-invasive closed-loop intervention in MCI. <br>
