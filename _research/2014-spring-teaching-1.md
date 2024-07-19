@@ -8,7 +8,7 @@ date: 2023-05-01
 location: "ChengDu, China"
 ---
 
-Brain Mechanism in MCI Patients During Movie-watching
+Brain Mechanism in MCI Patients During Movie-watching <br>
 Movie-Watching Elicits Memory Recall EEG synchrony connectivity Pattern in People with MCI.
 
 Heading 1
