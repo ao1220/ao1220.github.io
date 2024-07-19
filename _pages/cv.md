@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![Editing a markdown file for a talk](/images/cv.png)
+![cv](/images/cv.png)
