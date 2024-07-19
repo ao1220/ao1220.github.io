@@ -11,4 +11,4 @@ redirect_from:
 
 ![cv](/images/cv.png)
 
-You can download my CV [here](files/CV_AoXie_University of Electronic Science and Technology of China.pdf)
+You can download my CV [here](/files/CV_AoXie_University of Electronic Science and Technology of China.pdf)
