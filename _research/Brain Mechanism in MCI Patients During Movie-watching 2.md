@@ -17,16 +17,13 @@ In the same paradigm, we also focus on the changes in EEG power and neural curre
 
 Results
 ======
-The results are as follows. The main significant results are concentrated in the Delta and Beta bands.
+The results are as follows. The main significant results are concentrated in the Delta and Beta bands. <br>
 ![Figure 1. Topographic map of t-value distribution](/images/fig1-power.jpg)
-Figure 1. Topographic map of t-value distribution.
-<br>
+Figure 1. Topographic map of t-value distribution. <br>
 ![Figure 2. Line graph](/images/fig2.jpg)
-Figure 2. Line graph. Indicates trends in power for different groups.
-<br>
+Figure 2. Line graph. Indicates trends in power for different groups. <br>
 ![Figure 3. Scatter and fit plots](/images/fig3.jpg)
-Figure 3. Scatter and fit plots related to neuropsychological assessments.
-<br>
+Figure 3. Scatter and fit plots related to neuropsychological assessments. <br>
 ![Figure 4. Connection strength matrix](/images/fig4.jpg)
 Figure 4. Distribution of t-values after source analysis.
 
