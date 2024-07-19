@@ -1,5 +1,5 @@
 ---
-title: "Brain Mechanism in MCI Patients During Movie-watching 2"
+title: "Brain Mechanism in MCI Patients during Movie-watching 2"
 collection: research
 type: "Undergraduate course"
 permalink: /research/Brain Mechanism in MCI Patients During Movie-watching 2
