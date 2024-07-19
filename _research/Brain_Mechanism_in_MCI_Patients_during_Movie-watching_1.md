@@ -2,7 +2,7 @@
 title: "Brain Mechanism in MCI Patients during Movie-watching 1"
 collection: research
 type: "Undergraduate course"
-permalink: /research/Brain Mechanism in MCI Patients During Movie-watching 1
+permalink: /research/Brain_Mechanism_in_MCI_Patients_during_Movie-watching_1
 venue: "University of Electronic Science and Technology of China, Key laboratory for Neuroinformation of Ministry of Education"
 date: 2023-05-01
 location: "ChengDu, China"
