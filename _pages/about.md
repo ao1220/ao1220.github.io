@@ -11,9 +11,7 @@ redirect_from:
 WELCOME TO AO XIE'S HOMEPAGE
 ======
 
-Hello :)
-My name is AoXie, a graduate student from University of Electronic Science and Technology of China, majoring in electronic information.
-Most of my expertise is with EEG, but you can find a complete list of my skills/projects in my [CV](https://ao1220.github.io/cv/).
-Feel free to email me at [aoa1220@163.com](aoa1220@163.com) directly.
-
-
+Hello :) <br>
+My name is AoXie, a graduate student from University of Electronic Science and Technology of China, majoring in electronic information. <br>
+Most of my expertise is with EEG, but you can find a complete list of my skills/projects in my [CV](https://ao1220.github.io/cv/). <br>
+Feel free to email me at [aoa1220@163.com](aoa1220@163.com) directly. <br>
