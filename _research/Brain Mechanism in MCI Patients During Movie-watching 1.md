@@ -8,7 +8,7 @@ date: 2023-05-01
 location: "ChengDu, China"
 ---
 
-Movie-Watching Elicits Memory Recall EEG synchrony connectivity Pattern in People with MCI.
+Movie-watching Elicits Memory Recall EEG synchrony connectivity Pattern in People with MCI.
 ------
 
 Introduction
