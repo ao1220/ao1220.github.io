@@ -2,7 +2,7 @@
 title: "Closed-loop Feedback System for Memory Function Improvement in MCI Patients"
 collection: research
 type: "graduate project"
-permalink: /research/Closed-loop Feedback System for Memory Function Improvement in MCI Patients
+permalink: /research/Closed-loop_Feedback_System_for_Memory_Function_Improvement_in_MCI_Patients
 venue: "University of Electronic Science and Technology of China, Key laboratory for Neuroinformation of Ministry of Education"
 date: 2024-01-01
 location: "ChengDu, China"
