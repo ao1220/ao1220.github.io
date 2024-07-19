@@ -24,7 +24,15 @@ Results
 The results showed that the two groups showed different patterns of connectivity distribution in the two states especially in the low frequency bands, with increased synchronization in the frontal-parietal network of the NC and decreased synchronization between the bilateral temporal lobes as the level of recall elicited by the movie increased. Then MCI did not show the same changes, with little change in the frontal-parietal network and abnormal increase in the inter- and inner- temporal lobe network.
 ![Figure 2. Connection strength matrix](/images/single.jpg)
 Figure 2. Connection strength matrix
+![Figure 3. ANOVA and post-hoc t-test](/images/fig1.jpg)
+Figure 3. ANOVA and post-hoc t-test. (A) Results of ANOVA interactions across frequency bands, the color bar indicates F-values (p<0.05), and (B) post-hoc t-test results, the color bar indicates t-values (p<0.05, FDR corrected).
+![Figure 4. line graph](/images/fig2-v3.jpg)
+Figure 4. (A) Negative edges and the corresponding straight-line graphs. (B) Positive edges and the corresponding line graphs. Negative edges: t-values < 0; positive edges: t-values > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05; error bar: SE. <br>
 Furthermore, the changes in synchronous connectivity are related to cognitive function which has been suggested by the correlation with neuropsychological assessment scores.
+![Figure 5. Connection strength matrix](/images/fig3-v2.jpg)
+Figure 5. Scatterplots between PSI differences of negative edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
+![Figure 6. Connection strength matrix](/images/fig4-v2.jpg)
+Figure 6. Scatterplots between PSI differences of positive edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
 
 Discussion
 ======
