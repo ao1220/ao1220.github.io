@@ -13,7 +13,7 @@ Movie-watching Elicits Memory Recall EEG synchrony connectivity Pattern in Peopl
 
 Introduction
 ======
-Aging or aging-related diseases are considered to cause changes in neural synchronization. Natural stimuli such as movie-watching may provide the environment in which recall is evoked. How is neural synchrony affected by MCI disease in this state? <br>
+  Aging or aging-related diseases are considered to cause changes in neural synchronization. Natural stimuli such as movie-watching may provide the environment in which recall is evoked. How is neural synchrony affected by MCI disease in this state? <br>
 Here we measured the Electroencephalogram (EEG) of 39 normal control (NC) and 33 mild cognitive impairment (MCI) individuals during the viewing of two movies (one of which elicits recall and the other a control) to quantify neural synchrony connectivity and to observe the relationship between changes in synchrony and neuropsychological measures. <br>
 In order to select the appropriate movie stimuli for this study, two movies, low-recall and high-recall, were conducted. This was defined based on the subjective screening by the experimental designer, the pre-experiment, and the scale follow-up in the experiment (which mainly depended on the results of the pre-experiment.) The low-recall movie was chosen as a nature documentary; the high-recall movie was a narrative clip whose segment was about going down to the countryside to do farm work. This was due to the fact that the subjects were older Chinese people aged 45-80 years old, and the expectation was that it would elicit memories from the subjects.
 ![Figure 1. Paradigms and movie examples](/images/peradigms.jpg)
