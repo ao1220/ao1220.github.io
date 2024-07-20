@@ -17,17 +17,24 @@ Aging or aging-related diseases are considered to cause changes in neural synchr
 Here we measured the Electroencephalogram (EEG) of 39 normal control (NC) and 33 mild cognitive impairment (MCI) individuals during the viewing of two movies (one of which elicits recall and the other a control) to quantify neural synchrony connectivity and to observe the relationship between changes in synchrony and neuropsychological measures. <br>
 In order to select the appropriate movie stimuli for this study, two movies, low-recall and high-recall, were conducted. This was defined based on the subjective screening by the experimental designer, the pre-experiment, and the scale follow-up in the experiment (which mainly depended on the results of the pre-experiment.) The low-recall movie was chosen as a nature documentary; the high-recall movie was a narrative clip whose segment was about going down to the countryside to do farm work. This was due to the fact that the subjects were older Chinese people aged 45-80 years old, and the expectation was that it would elicit memories from the subjects.
 ![Figure 1. Paradigms and movie examples](/images/peradigms.jpg)
-Figure 1. Paradigms and movie examples
+<div style="text-align: center;">
+  Figure 1. Paradigms and movie examples
+</div>
+
 
 Results
 ======
 The results showed that the two groups showed different patterns of connectivity distribution in the two states especially in the low frequency bands, with increased synchronization in the frontal-parietal network of the NC and decreased synchronization between the bilateral temporal lobes as the level of recall elicited by the movie increased. Then MCI did not show the same changes, with little change in the frontal-parietal network and abnormal increase in the inter- and inner- temporal lobe network.
 <br>
 ![Figure 2. Connection strength matrix](/images/single.jpg)
-Figure 2. Connection strength matrix
+<div style="text-align: center;">
+  Figure 2. Connection strength matrix
+</div>
 <br>
 ![Figure 3. ANOVA and post-hoc t-test](/images/fig1.jpg)
-Figure 3. ANOVA and post-hoc t-test. (A) Results of ANOVA interactions across frequency bands, the color bar indicates F-values (p<0.05), and (B) post-hoc t-test results, the color bar indicates t-values (p<0.05, FDR corrected).
+<div style="text-align: center;">
+  Figure 3. ANOVA and post-hoc t-test. (A) Results of ANOVA interactions across frequency bands, the color bar indicates F-values (p<0.05), and (B) post-hoc t-test results, the color bar indicates t-values (p<0.05, FDR corrected).
+</div>
 <br>
 ![Figure 4. line graph](/images/fig2-v3.jpg)
 Figure 4. (A) Negative edges and the corresponding straight-line graphs. (B) Positive edges and the corresponding line graphs. Negative edges: t-values < 0; positive edges: t-values > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05; error bar: SE. <br>
