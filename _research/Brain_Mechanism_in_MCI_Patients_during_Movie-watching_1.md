@@ -53,9 +53,9 @@ Moreover, our finding of between the above difference in connectivity and correl
 
 Methods
 ======
-·Raw EEG data was preprocessed. The details of preprocessing contained: 1) A Hamming window FIR filter was used for 1-40 Hz bandpass filtering to filter out ultra-low frequencies, unwanted high frequencies, and industrial frequency noise; 2) Remove artifact by Independent Component Analysis (ICA) based Multiple Artifact Rejection Algorithm (MARA); 3) Bad channels were identified and interpolated by using reference electrode standardization interpolation technique (RESIT), and re-referencing to REST; 4) Computational platform was used for inspection to identify and remove segments of EEG contaminating excessive noise which with unusually high or low amplitude. Clean EEG data were obtained finally. <br>
-·Phase Synchronization Index (PSI) is calculated to characterize synchronized brain activity. <br>
-·Changes in the connectivity of electrodes were characterized across subjects using a two-way mixed (2 groups×2 conditions) analysis of variance (ANOVA) with condition (low-recall vs high-recall movie-watching) as the within-subject factor and group (NC vs MCI) as the between-subject factor in the analysis. A post-hoc t-test were used to investigate potential changes in the interaction factor (p<0.05).
+- Raw EEG data was preprocessed. The details of preprocessing contained: 1) A Hamming window FIR filter was used for 1-40 Hz bandpass filtering to filter out ultra-low frequencies, unwanted high frequencies, and industrial frequency noise; 2) Remove artifact by Independent Component Analysis (ICA) based Multiple Artifact Rejection Algorithm (MARA); 3) Bad channels were identified and interpolated by using reference electrode standardization interpolation technique (RESIT), and re-referencing to REST; 4) Computational platform was used for inspection to identify and remove segments of EEG contaminating excessive noise which with unusually high or low amplitude. Clean EEG data were obtained finally. <br>
+- Phase Synchronization Index (PSI) is calculated to characterize synchronized brain activity. <br>
+- Changes in the connectivity of electrodes were characterized across subjects using a two-way mixed (2 groups×2 conditions) analysis of variance (ANOVA) with condition (low-recall vs high-recall movie-watching) as the within-subject factor and group (NC vs MCI) as the between-subject factor in the analysis. A post-hoc t-test were used to investigate potential changes in the interaction factor (p<0.05).
 
 Conclusion
 ======
