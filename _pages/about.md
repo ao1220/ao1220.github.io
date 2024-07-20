@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-WELCOME TO AO XIE'S HOMEPAGE
-======
+**WELCOME TO AO XIE'S HOMEPAGE**
 
 Hello :) <br>
 My name is AoXie, a graduate student from University of Electronic Science and Technology of China, majoring in electronic information (BME). <br>
