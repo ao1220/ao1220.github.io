@@ -48,8 +48,8 @@ Moreover, our finding of between the above difference in connectivity and correl
 
 **Limitation**
 
-·The recollections in the study we assumed would produce autobiographical recollections, but in reality, movie-watching involves a variety of cognitive activities such as attention, memory retrieval, emotion, and so on. Although it is mentioned that movies provide rich stimuli, the part of the movie stimuli that involves memory retrieval of the stimuli is not isolated (there is no associated psycho-cognitive task), so it is not possible to identify whether the activity of the network is due to memory retrieval processes, but only to indicate that higher cognitive processes are involved. The ability to provide psycho-cognitive tasks in addition to neuropsychological measures would have provided a more accurate experimental group. <br>
-·The EEG does not have enough resolution to provide deeper information and needs to be supported by more modal data. <br>
+- The recollections in the study we assumed would produce autobiographical recollections, but in reality, movie-watching involves a variety of cognitive activities such as attention, memory retrieval, emotion, and so on. Although it is mentioned that movies provide rich stimuli, the part of the movie stimuli that involves memory retrieval of the stimuli is not isolated (there is no associated psycho-cognitive task), so it is not possible to identify whether the activity of the network is due to memory retrieval processes, but only to indicate that higher cognitive processes are involved. The ability to provide psycho-cognitive tasks in addition to neuropsychological measures would have provided a more accurate experimental group. <br>
+- The EEG does not have enough resolution to provide deeper information and needs to be supported by more modal data. <br>
 
 Methods
 ======
