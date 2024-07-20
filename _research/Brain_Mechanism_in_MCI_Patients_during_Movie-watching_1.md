@@ -49,7 +49,7 @@ Results
   Figure 5. Scatterplots between PSI differences of negative edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
 </div>
 <br>
-![Figure 6. Connection strength matrix](/images/fig4-v2.jpg)
+![Figure 6. Connection strength matrix](/images/fig4-v2.jpg){: style="width:300px"}
 <div style="text-align: center;">
   Figure 6. Scatterplots between PSI differences of positive edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
 </div>
