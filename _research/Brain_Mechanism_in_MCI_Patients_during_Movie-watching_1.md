@@ -43,9 +43,9 @@ Results
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the changes in synchronous connectivity are related to cognitive function which has been suggested by the correlation with neuropsychological assessment scores.
 <br>
-<p align="center">
-![Figure 5. Connection strength matrix](/images/fig3-v2.jpg){: style="width:600px"}
-</p>
+<div align="center">
+  <img src="/images/fig3-v2.jpg" alt="Figure 5. Connection strength matrix" width="600"/>
+</div>
 <div style="text-align: center;">
   Figure 5. Scatterplots between PSI differences of negative edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
 </div>
