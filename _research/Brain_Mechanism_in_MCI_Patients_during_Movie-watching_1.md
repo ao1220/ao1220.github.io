@@ -13,9 +13,9 @@ Movie-watching Elicits Memory Recall EEG synchrony connectivity Pattern in Peopl
 
 Introduction
 ======
-  Aging or aging-related diseases are considered to cause changes in neural synchronization. Natural stimuli such as movie-watching may provide the environment in which recall is evoked. How is neural synchrony affected by MCI disease in this state? <br>
+&nbsp;&nbsp;Aging or aging-related diseases are considered to cause changes in neural synchronization. Natural stimuli such as movie-watching may provide the environment in which recall is evoked. How is neural synchrony affected by MCI disease in this state? <br>
 Here we measured the Electroencephalogram (EEG) of 39 normal control (NC) and 33 mild cognitive impairment (MCI) individuals during the viewing of two movies (one of which elicits recall and the other a control) to quantify neural synchrony connectivity and to observe the relationship between changes in synchrony and neuropsychological measures. <br>
-In order to select the appropriate movie stimuli for this study, two movies, low-recall and high-recall, were conducted. This was defined based on the subjective screening by the experimental designer, the pre-experiment, and the scale follow-up in the experiment (which mainly depended on the results of the pre-experiment.) The low-recall movie was chosen as a nature documentary; the high-recall movie was a narrative clip whose segment was about going down to the countryside to do farm work. This was due to the fact that the subjects were older Chinese people aged 45-80 years old, and the expectation was that it would elicit memories from the subjects.
+&nbsp;&nbsp;In order to select the appropriate movie stimuli for this study, two movies, low-recall and high-recall, were conducted. This was defined based on the subjective screening by the experimental designer, the pre-experiment, and the scale follow-up in the experiment (which mainly depended on the results of the pre-experiment.) The low-recall movie was chosen as a nature documentary; the high-recall movie was a narrative clip whose segment was about going down to the countryside to do farm work. This was due to the fact that the subjects were older Chinese people aged 45-80 years old, and the expectation was that it would elicit memories from the subjects.
 ![Figure 1. Paradigms and movie examples](/images/peradigms.jpg)
 <div style="text-align: center;">
   Figure 1. Paradigms and movie examples
@@ -24,7 +24,7 @@ In order to select the appropriate movie stimuli for this study, two movies, low
 
 Results
 ======
-The results showed that the two groups showed different patterns of connectivity distribution in the two states especially in the low frequency bands, with increased synchronization in the frontal-parietal network of the NC and decreased synchronization between the bilateral temporal lobes as the level of recall elicited by the movie increased. Then MCI did not show the same changes, with little change in the frontal-parietal network and abnormal increase in the inter- and inner- temporal lobe network.
+&nbsp;&nbsp;The results showed that the two groups showed different patterns of connectivity distribution in the two states especially in the low frequency bands, with increased synchronization in the frontal-parietal network of the NC and decreased synchronization between the bilateral temporal lobes as the level of recall elicited by the movie increased. Then MCI did not show the same changes, with little change in the frontal-parietal network and abnormal increase in the inter- and inner- temporal lobe network.
 <br>
 ![Figure 2. Connection strength matrix](/images/single.jpg)
 <div style="text-align: center;">
@@ -41,8 +41,9 @@ The results showed that the two groups showed different patterns of connectivity
   Figure 4. (A) Negative edges and the corresponding straight-line graphs. (B) Positive edges and the corresponding line graphs. Negative edges: t-values < 0; positive edges: t-values > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05; error bar: SE.
 </div>
 <br>
-Furthermore, the changes in synchronous connectivity are related to cognitive function which has been suggested by the correlation with neuropsychological assessment scores.
+&nbsp;&nbsp;Furthermore, the changes in synchronous connectivity are related to cognitive function which has been suggested by the correlation with neuropsychological assessment scores.
 <br>
+    
 ![Figure 5. Connection strength matrix](/images/fig3-v2.jpg)
 <div style="text-align: center;">
   Figure 5. Scatterplots between PSI differences of negative edge high minus low states and neuropsychological assessment scores for each frequency band. The orange and blue circles indicate the NC and MCI subjects, respectively. The black line and shaded area show the estimated regression curves and 95% confidence intervals derived from regression analysis. r: Pearson correlation coefficient; p: p-value.
@@ -56,8 +57,8 @@ Furthermore, the changes in synchronous connectivity are related to cognitive fu
 
 Discussion
 ======
-Enhancement of FPN during recall in NC and FPN nonresponsiveness to recall in MCI patients, indicated that FPN may play a key role in the recall process. Most studies have demonstrated that prefrontal and parietal regions were activated by many cognitive functions, which play a crucial role in brain information processing as the brain performs higher-level cognitive activities. It showed impaired connectivity between the frontal and parietal brain regions in patients with symptoms of cognitive impairment, especially in MCI patients, the decline in functional connectivity of the frontal-parietal network was detected. Our results may also serve as confirmation of this hypothesis. <br>
-The tendency for inter-hemisphere and inner-region connectivity to enhance within the temporal regions of MCI. The brain activity of MCI patients might be activated by movie-watching to produce network changes, for the possession of retrieval memory generated the impairment of the network coordination, and recruited additional neural resources of inter-temporal and inner-temporal networks, which is a disordered network. <br>
+&nbsp;&nbsp;Enhancement of FPN during recall in NC and FPN nonresponsiveness to recall in MCI patients, indicated that FPN may play a key role in the recall process. Most studies have demonstrated that prefrontal and parietal regions were activated by many cognitive functions, which play a crucial role in brain information processing as the brain performs higher-level cognitive activities. It showed impaired connectivity between the frontal and parietal brain regions in patients with symptoms of cognitive impairment, especially in MCI patients, the decline in functional connectivity of the frontal-parietal network was detected. Our results may also serve as confirmation of this hypothesis. <br>
+&nbsp;&nbsp;The tendency for inter-hemisphere and inner-region connectivity to enhance within the temporal regions of MCI. The brain activity of MCI patients might be activated by movie-watching to produce network changes, for the possession of retrieval memory generated the impairment of the network coordination, and recruited additional neural resources of inter-temporal and inner-temporal networks, which is a disordered network. <br>
 Moreover, our finding of between the above difference in connectivity and correlations with neuropsychological measures may reflect the fact that changes in brain network connectivity during the progression of MCI to AD may be a developmentally progressive process.
 
 **Limitation**
@@ -73,4 +74,4 @@ Methods
 
 Conclusion
 ======
-Our study revealed that MCI leads to altered neural synchrony connectivity in the recall state. There are regularities in these network patterns that may be relevant to cognitive and recall functions.
+&nbsp;&nbsp;Our study revealed that MCI leads to altered neural synchrony connectivity in the recall state. There are regularities in these network patterns that may be relevant to cognitive and recall functions.
