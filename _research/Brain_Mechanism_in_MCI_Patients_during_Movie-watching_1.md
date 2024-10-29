@@ -36,7 +36,7 @@ Results
   Figure 3. ANOVA and post-hoc t-test. (A) Results of ANOVA interactions across frequency bands, the color bar indicates F-values (p<0.05), and (B) post-hoc t-test results, the color bar indicates t-values (p<0.05, FDR corrected).
 </div>
 <br>
-![Figure 4. line graph](/images/fig2-v3.jpg)
+![Figure 4. line graph](/images/figure4.pdf)
 <div style="text-align: center;">
   Figure 4. (A) Negative edges and the corresponding straight-line graphs. (B) Positive edges and the corresponding line graphs. Negative edges: t-values < 0; positive edges: t-values > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05; error bar: SE.
 </div>
