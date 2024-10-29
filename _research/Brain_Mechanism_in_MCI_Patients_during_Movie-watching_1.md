@@ -38,7 +38,7 @@ Results
 <br>
 ![Figure 4. line graph](/images/fig2-v5-down.png)
 <div style="text-align: center;">
-  Figure 4. (A) Negative edges and the corresponding straight-line graphs. (B) Positive edges and the corresponding line graphs. Negative edges: t-values < 0; positive edges: t-values > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05; error bar: SE.
+  Figure 4. Figure 4 Patterns of change in negative and positive edge networks. (A) Negative edges for t-value and Cohen’s d respectively and the corresponding straight-line graphs. (B) Positive edges for t-value and Cohen’s d respectively and the corresponding line graphs. Negative edges: t-values < 0 or Cohen’s d effect size < 0; positive edges: t-values > 0 or Cohen’s d effect size > 0. T-test: ΔPSI MCI vs ΔPSI NC; Δ = PSI high-recall – PSI low-recall, p<0.05. The depth of the edge indicates a high (|d| >0.7) or medium (0.5< |d| <0.7) effect size. Error bars: the Standard Error (SE) values.
 </div>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Furthermore, the changes in synchronous connectivity are related to cognitive function which has been suggested by the correlation with neuropsychological assessment scores.
